@@ -54,10 +54,10 @@ header .bottom ul li:last-child {
 
 main p,
 main li {
-  margin-bottom: 1.4rem;
+  margin-bottom: 1.2rem;
   font-size: 0.9rem;
   line-height: 1.5rem;
-  color: rgb(78, 78, 78);
+  color: #4e4e4e;
 }
 
 main li {
